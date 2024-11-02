@@ -2,3 +2,4 @@
 # npm init
 # npm i bcryptjs jsonwebtoken express chai
 # os fs packages in built
+# readFile writeFile readFileSync
